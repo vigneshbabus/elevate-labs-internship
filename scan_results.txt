@@ -1,0 +1,14 @@
+C:\Users\user>   nmap -sS  192.168.0.1
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-06 18:36 +0530
+Nmap scan report for 192.168.0.1
+Host is up (0.0014s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+23/tcp   open  telnet
+53/tcp   open  domain
+80/tcp   open  http
+1900/tcp open  upnp
+MAC Address: EC:75:0C:7E:FB:D0 (TP-Link Systems)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.81 seconds
